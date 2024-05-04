@@ -1,39 +1,23 @@
 **SQL_Project_Music_Store_Analysis**
 
-SQL PROJECT- MUSIC STORE DATA ANALYSIS
+1. **Senior Most Employee by Job Title:** Identified the most senior employee within each job title category, providing insights into the hierarchical structure of the organization.
 
-*Question Set 1 - Easy*
+2. **Countries with Most Invoices:** Analyzed invoice data to determine the countries with the highest number of transactions, aiding in understanding market demand and customer distribution.
 
-1. Who is the senior most employee based on job title?
-2. Which countries have the most Invoices?
-3. What are top 3 values of total invoice?
-4. Which city has the best customers? We would like to throw a promotional Music
-Festival in the city we made the most money. Write a query that returns one city that
-has the highest sum of invoice totals. Return both the city name & sum of all invoice
-totals
-5. Who is the best customer? The customer who has spent the most money will be
-declared the best customer. Write a query that returns the person who has spent the
-most money
+3. **Top 3 Values of Total Invoices:** Identified the top three invoice values, helping prioritize sales efforts and understand revenue distribution.
 
-*Question Set 2 – Moderate*
+4. **City with Best Customers:** Determined the city with the highest total invoice amounts, guiding decisions on promotional activities such as music festivals.
 
-1. Write query to return the email, first name, last name, & Genre of all Rock Music
-listeners. Return your list ordered alphabetically by email starting with A
-2. Let's invite the artists who have written the most rock music in our dataset. Write a
-query that returns the Artist name and total track count of the top 10 rock bands
-3. Return all the track names that have a song length longer than the average song length.
-Return the Name and Milliseconds for each track. Order by the song length with the
-longest songs listed first
+5. **Best Customer Identification:** Identified the customer with the highest total spending, aiding in customer relationship management and loyalty programs.
 
-*Question Set 3 – Advance*
+6. **Rock Music Listeners' Details:** Compiled a list of Rock music listeners' contact details and preferences, facilitating targeted marketing efforts.
 
-1. Find how much amount spent by each customer on artists? Write a query to return
-customer name, artist name and total spent
-2. We want to find out the most popular music Genre for each country. We determine the
-most popular genre as the genre with the highest amount of purchases. Write a query
-that returns each country along with the top Genre. For countries where the maximum
-number of purchases is shared return all Genres
-3. Write a query that determines the customer that has spent the most on music for each
-country. Write a query that returns the country along with the top customer and how
-much they spent. For countries where the top amount spent is shared, provide all
-customers who spent this amount
+7. **Top Rock Bands Invitation:** Identified the top 10 Rock bands by the number of tracks produced, enabling targeted invitations for collaborations or events.
+
+8. **Longest Tracks Analysis:** Identified tracks with lengths exceeding the average, aiding in playlist curation and understanding customer preferences for longer music pieces.
+
+9. **Customer Spending on Artists:** Calculated the total spending of each customer on artists, providing insights into customer preferences and artist popularity.
+
+10. **Most Popular Genre by Country:** Determined the most popular music genre in each country based on purchase frequency, assisting in localized marketing strategies.
+
+11. **Top Spender by Country:** Identified the top spending customer for each country, aiding in personalized marketing efforts and customer retention strategies.
